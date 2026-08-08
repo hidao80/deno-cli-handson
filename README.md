@@ -1,4 +1,4 @@
-# deno-cli
+# deno-cli-handson
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
